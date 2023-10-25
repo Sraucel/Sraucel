@@ -6,11 +6,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+I am currently a sophomore Computer Science student looking for Summer 2024 Internship opportunities preferably in Canada or the U.S. I am most interested in web development but also like software development, I.T and game design.
 
-
-
-
-I am currently a sophomore Computer Science student looking for Summer 2024 Internship opportunities preferably in Canada or the U.S.
+My repositories containing all my projects are below ↓
 
 
 <!--

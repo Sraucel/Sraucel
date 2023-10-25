@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I am currently a sophomore Computer Science student looking for Summer 2024 Internship opportunities preferably in Canada or the U.S.
+
+
 <!--
 **Sraucel/Sraucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

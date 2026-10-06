@@ -12,6 +12,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![GitLab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark)
+![AWS S3](https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory_Domain_Services-blue)
 
 I am currently a sophomore Computer Science student looking for Summer 2024 Internship opportunities preferably in Canada or the U.S. I am most interested in web development but also like software development, I.T and game design.
 

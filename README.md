@@ -8,6 +8,10 @@
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-%E2%9C%93-lightgrey?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
 I am currently a sophomore Computer Science student looking for Summer 2024 Internship opportunities preferably in Canada or the U.S. I am most interested in web development but also like software development, I.T and game design.
 
